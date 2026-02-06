@@ -40,6 +40,8 @@ The system prompt instructs the AI to:
 ## 👩‍💻 Author
 Riya Khatawkar
 
+<img width="1910" height="802" alt="image" src="https://github.com/user-attachments/assets/dcf4fb45-44c7-488f-abd0-54bb60fcc7c6" />
+
 
 <img width="1911" height="704" alt="image" src="https://github.com/user-attachments/assets/03173de1-0f2e-4f46-8337-547b77af732d" />
 
